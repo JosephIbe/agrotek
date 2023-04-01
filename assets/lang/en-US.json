@@ -1,0 +1,66 @@
+{
+    "title": "Hello",
+    "started_at": "Started at {}",
+    "file_size": "File Size: {}",
+    "download": "Download",
+    "lesson_note": "Lession Note",
+    "lesson": "Lession",
+    "lessons": "Lessions",
+    "chapter": "Chapter",
+    "chapters": "Chapters",
+    "learn_more": "Learn More",
+    "welcome_user": "Welcome {}",
+    "privacy_policy": "Privacy Policy & Conditions",
+    "buy_learning_plan": "Buy a learning Plan to unlock Premium lessions",
+    "ongoing_lession": "Ongoing Lession",
+    "watch_free_videos": "Watch Free Videos",
+    "comments": "Comments",
+    "ask_totur_question": "Ask your totur a question",
+
+    "learning_plan": {
+        "add_tablet": "Add a Learming Tablet"
+    },
+    
+    "buttons": {
+        "next": "Next",
+        "continue": "Continue",
+        "cancel": "Cancel",
+        "login": "Login",
+        "join": "Join for free",
+        "buy_now": "Buy Now"
+    },
+    "form": {
+        "full_name": "Full Name",
+        "gender": "Gender",
+        "select_class": "Select Class",
+        "password": "Password",
+        "phone": "8170005060",
+        "email": "Email Adress",
+        "askQuestion": "type your question"
+    },
+    "splash_screen": {
+        "title": "Learn Something New",
+        "description": "Learn new skills online with top educators, choose from over 1000 online videos."
+    },
+    "login_page": {
+        "title": "Welcome Back",
+        "sub_title": "Login to continue learning",
+        "footer": "Don’t have an account?",
+        "link": "Create a Learning Account"
+    },
+    "signup": {
+        "title": "Enter your Number and Email",
+        "note": "You will receive an OTP on the mobile number and email you have entered",
+        "footer": "Have an account?",
+        "link": "Login to continue learning",
+        "profile": "Create Your Profile"
+    },
+    "otp": {
+        "title": "Enter your OTP",
+        "sub_title": "We sent you a 6 digit code on",
+        "otp_not_sent": "Did not recieve verification code?",
+        "resend": "Click here to get it again",
+        "footer_1": "Tap continue to accept XtraSchool",
+        "footer_2": "and Cookie Use"
+    }
+}

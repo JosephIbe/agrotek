@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../../tools/flutter/.pub-cache/hosted/pub.dartlang.org/address_search_field-5.0.3/android" />
+            <option value="$PROJECT_DIR$/../../../../tools/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-5.2.5/android" />
+            <option value="$PROJECT_DIR$/../../../../tools/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/android" />
+            <option value="$PROJECT_DIR$/../../../../tools/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.2/android" />
+            <option value="$PROJECT_DIR$/../../../../tools/flutter/.pub-cache/hosted/pub.dartlang.org/geocoding-2.0.5/android" />
+            <option value="$PROJECT_DIR$/../../../../tools/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.1.4/android" />
+            <option value="$PROJECT_DIR$/../../../../tools/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter_android-2.3.3/android" />
+            <option value="$PROJECT_DIR$/../../../../tools/flutter/.pub-cache/hosted/pub.dartlang.org/libphonenumber-2.0.2/android" />
+            <option value="$PROJECT_DIR$/../../../../tools/flutter/.pub-cache/hosted/pub.dartlang.org/libphonenumber_plugin-0.2.3/android" />
+            <option value="$PROJECT_DIR$/../../../../tools/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.19/android" />
+            <option value="$PROJECT_DIR$/../../../../tools/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.12/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
